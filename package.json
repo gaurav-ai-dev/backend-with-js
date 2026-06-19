@@ -1,0 +1,15 @@
+{
+  "name": "setup-a-professional-backend-project",
+  "version": "1.0.0",
+  "description": "A backend with chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "Gaurav Garg",
+  "license": "ISC"
+}
